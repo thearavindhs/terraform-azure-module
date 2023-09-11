@@ -1,1 +1,1 @@
-# terraform-azure-module
+# terraform-azure-modules
